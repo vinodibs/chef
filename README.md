@@ -1,5 +1,6 @@
 # Download & Install Chefdk_3.3.23-1 for Ubuntu 16.04
 wget https://packages.chef.io/files/stable/chefdk/3.3.23/ubuntu/16.04/chefdk_3.3.23-1_amd64.deb
+
 dpkg -i dpkg -i chefdk_3.3.23-1_amd64.deb
  
 # Chef-solo Command to run cookbooks on your Local System / Server
