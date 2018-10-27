@@ -66,3 +66,39 @@ end
 package "php-imap" do
   action :install
 end
+
+package "php-xml" do
+  action :install
+end
+
+package "php-xmlrpc" do
+  action :install
+end
+
+package "php-xsl" do
+  action :install
+end
+
+package "php-tidy" do
+  action :install
+end
+
+package "php-intl" do
+  action :install
+end
+
+package "php-interbase" do
+  action :install
+end
+
+package "php-enchant" do
+  action :install
+end
+
+package "php-gmp" do
+  action :install
+end
+
+package "php-bcmath" do
+  action :install
+end
